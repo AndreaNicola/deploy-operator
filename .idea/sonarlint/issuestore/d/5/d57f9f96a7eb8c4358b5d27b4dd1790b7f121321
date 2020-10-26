@@ -1,0 +1,12 @@
+
+Z
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(şëŒ8ë±…ÿÔ.
+£
+java:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠÏ¸âüÿÿÿÿ8Ú÷–çÔ.
+C	java:S131""Add a default case to this switch.(ë´åİşÿÿÿÿ8ë±…ÿÔ.
+
+java:S1128"bRemove this unused import 'io.fabric8.kubernetes.client.dsl.base.CustomResourceDefinitionContext'.(À¡ÿÅ8ë±…ÿÔ.
+Z
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(š®È8ë±…ÿÔ.
+r
+java:S2095"UUse try-with-resources or close this "DefaultKubernetesClient" in a "finally" clause.(–Íœ…8Àü£æÔ.

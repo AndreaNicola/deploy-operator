@@ -1,0 +1,13 @@
+apiVersion: makeit.it/v1
+kind: App
+metadata:
+  name: "test-app2"
+spec:
+  port: 80
+  imageName: nginx
+  ingressHostName: www.test11.local
+  parameters:
+    - name: PAR1
+      value: value1111
+    - name: PAR2
+      value: value2222
